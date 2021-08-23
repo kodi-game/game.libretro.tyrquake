@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
+msgctxt "Addon Summary"
+msgid "Quake (TyrQuake) v0.62"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.
+
+Supported files: .pak"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

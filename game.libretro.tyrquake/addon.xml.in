@@ -17,8 +17,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Quake (TyrQuake) v0.62</summary>
-		<description lang="en_GB">Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.
 
 Supported files: .pak</description>
 		<license>GPLv2</license>
@@ -30,5 +28,9 @@ Supported files: .pak</description>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Quake (TyrQuake) v0.62</summary>
+		<description lang="en_GB">Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.
+
+Supported files: .pak</description>
 	</extension>
 </addon>
