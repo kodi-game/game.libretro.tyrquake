@@ -21,7 +21,7 @@ msgid "Quake (TyrQuake) v0.62"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.Supported files: .pak"
+msgid "Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years."
 msgstr ""
 
 msgctxt "#30000"
