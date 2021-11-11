@@ -1,1 +1,1 @@
-tyrquake https://github.com/libretro/tyrquake/archive/52f04e45a2a6080175f5f5771e448d87578c6cbf.tar.gz
+tyrquake https://github.com/libretro/tyrquake/archive/19aa11e965a6dbb31d418e99bcd14d86eb822b20.tar.gz
