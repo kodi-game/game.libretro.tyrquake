@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.tyrquake/resources/icon.png)
+![Quake (TyrQuake) icon](game.libretro.tyrquake/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.tyrquake/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.tyrquake/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.tyrquake/resources/screenshot-03.jpg)
+![Quake (TyrQuake) screenshot](game.libretro.tyrquake/resources/screenshot-01.jpg)
+![Quake (TyrQuake) screenshot](game.libretro.tyrquake/resources/screenshot-02.jpg)
+![Quake (TyrQuake) screenshot](game.libretro.tyrquake/resources/screenshot-03.jpg)
