@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Quake (TyrQuake) v0.62"
+msgid "Quake (TyrQuake)"
 msgstr ""
 
 msgctxt "Addon Description"

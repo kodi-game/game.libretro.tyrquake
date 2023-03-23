@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgctxt "Addon Summary"
-msgid "Quake (TyrQuake) v0.62"
+msgid "Quake (TyrQuake)"
 msgstr ""
 
 msgctxt "Addon Description"
