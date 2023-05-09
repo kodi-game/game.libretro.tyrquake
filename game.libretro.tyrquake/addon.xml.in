@@ -27,6 +27,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Quake (TyrQuake)</summary>
 		<summary lang="en_GB">Quake (TyrQuake)</summary>
 		<summary lang="es_ES">Quake (TyrQuake)</summary>
 		<description lang="da_DK">Tyr-Quake er et branch af Quake-kildekoden udgivet af id Software. Det er beregnet til at understøtte Quake og Quakeworld og rette små fejl, der er dukket op gennem årene.</description>
