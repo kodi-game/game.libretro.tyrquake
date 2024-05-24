@@ -35,6 +35,7 @@
 		<description lang="de_DE">Tyr-Quake ist ein Ableger des Quake-Quellcodes, der von id Software veröffentlicht wurde. Er ist dafür vorgesehen, Quake und Quakeworld zu unterstützen und gleichzeitig kleine Fehler zu beheben, die im Laufe der Jahre aufgetreten sind.</description>
 		<description lang="en_GB">Tyr-Quake is a branch of the Quake source code released by id Software. It is intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.</description>
 		<description lang="es_ES">Tyr-Quake es una rama del código fuente de Quake publicada por id Software. Su objetivo es dar soporte a Quake y Quakeworld al mismo tiempo que se corrigen pequeños errores que han ido apareciendo a lo largo de los años.</description>
+		<description lang="sl_SI">Tyr-Quake je veja izvorne kode Quake, ki jo je izdal id Software. Namenjen je podpori Quake in Quakeworld, medtem ko popravlja majhne napake, ki so se pojavile v preteklih letih.</description>
 		<description lang="zh_CN">Tyr-Quake 是 id 软件发布的 Quake 源代码的一个分支。它旨在支持 Quake 和 Quakeworld，同时修复多年来出现的小错误。</description>
 	</extension>
 </addon>
