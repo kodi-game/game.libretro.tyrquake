@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Tyr-Quake is a branch of the Quake source code released by id Software. It is intended to support Quake and Quakeworld while fixing little bugs that have come up over the years."
 msgstr "Tyr-Quake 是 id 软件发布的 Quake 源代码的一个分支。它旨在支持 Quake 和 Quakeworld，同时修复多年来出现的小错误。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Internal resolution (restart)"
 msgstr "内部分辨率（重新启动）"
@@ -52,3 +48,7 @@ msgstr "Y 轴反转"
 msgctxt "#30006"
 msgid "Analog Deadzone (percent)"
 msgstr "模拟死区（百分比）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
