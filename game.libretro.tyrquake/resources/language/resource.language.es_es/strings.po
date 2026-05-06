@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr "Tasa de Fotogramas (reiniciar)"
 
-msgctxt "#30003"
-msgid "Colored lighting (restart)"
-msgstr "Iluminación de Colores (reiniciar)"
-
 msgctxt "#30004"
 msgid "Rumble"
 msgstr "Vibración"
@@ -48,6 +44,10 @@ msgstr "Invertir Eje Y"
 msgctxt "#30006"
 msgid "Analog Deadzone (percent)"
 msgstr "Zona Muerta Analógica (porcentaje)"
+
+#~ msgctxt "#30003"
+#~ msgid "Colored lighting (restart)"
+#~ msgstr "Iluminación de Colores (reiniciar)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

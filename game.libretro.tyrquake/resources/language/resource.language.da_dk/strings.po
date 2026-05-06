@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Framerate (restart)"
 msgstr "Billedhastighed (genstart)"
 
-msgctxt "#30003"
-msgid "Colored lighting (restart)"
-msgstr "Farvet belysning (genstart)"
-
 msgctxt "#30004"
 msgid "Rumble"
 msgstr "Rysten"
@@ -48,6 +44,10 @@ msgstr "Inverter Y-aksen"
 msgctxt "#30006"
 msgid "Analog Deadzone (percent)"
 msgstr "Analog dødzone (procent)"
+
+#~ msgctxt "#30003"
+#~ msgid "Colored lighting (restart)"
+#~ msgstr "Farvet belysning (genstart)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
