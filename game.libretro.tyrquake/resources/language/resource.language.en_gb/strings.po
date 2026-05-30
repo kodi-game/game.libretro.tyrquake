@@ -45,3 +45,11 @@ msgstr ""
 msgctxt "#30006"
 msgid "Analog Deadzone (percent)"
 msgstr ""
+
+msgctxt "#30007"
+msgid "Renderer (restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Compute rendering (restart)"
+msgstr ""
