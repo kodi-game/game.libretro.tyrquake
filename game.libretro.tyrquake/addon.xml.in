@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.tyrquake"
 		name="Quake (TyrQuake)"
-		version="0.62.0.59"
+		version="0.62.0.60"
 		provider-name="Kevin Shanahan (Tyrann)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -11,7 +11,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Quake</platforms>
 		<extensions>pak</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
